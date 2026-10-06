@@ -1,0 +1,7 @@
+{
+  "name": "BriefCheck",
+  "port": 8766,
+  "sample": "v3",
+  "tagline": "Draft, audit, revise. Follow each claim back to the passage behind it.",
+  "accent": "#215c50"
+}

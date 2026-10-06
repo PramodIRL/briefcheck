@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+replays/
+tests/.case-*/
+
+# Committed assessment runs belong in runs/v1, runs/v2 and runs/v3.
+# Review any additional run for credentials or private documents before adding it.
+.ui-uploads/

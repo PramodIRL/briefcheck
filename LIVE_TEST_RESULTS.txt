@@ -1,0 +1,36 @@
+6 October 2026 — actual run inventory
+
+Saved examples and the local UI work without a key. The latest Groq GPT-OSS-20B v4 run is completed (v4-groq-20b-01). Execution and zero-call replay have passed; wording and completeness still need review. Earlier free OpenRouter runs completed on older revisions but had content issues. This account then exhausted its daily free allowance. No paid OpenRouter calls were used.
+
+Selected submission sample: v3 (original model-session capture, exact unchanged brief; owner review pending).
+A completed status means execution/checks finished, NOT that all prose is correct.
+See CONTENT_REVIEW.json, run-notes.json and per-run responses/rejections.
+Original failures and successful runs remain preserved.
+
+live-groq-v1-04	legacy	api	see manifest	pending	0 recorded calls
+live-groq-v3-01	legacy	api	see manifest	pending	0 recorded calls
+live-groq-v3-02	legacy	api	see manifest	pending	0 recorded calls
+ui-20261006T145124Z-05f6f1	legacy	api	see manifest	pending	0 recorded calls
+ui-20261006T162045Z-afd79f	bounded-parts-8	live-api	qwen/qwen3.8-27b	failed	3 recorded calls
+ui-20261006T162417Z-eda21c	bounded-parts-8	live-api	openai/gpt-oss-120b	failed	4 recorded calls
+ui-20261006T162820Z-4ccc46	bounded-parts-9	live-api	openai/gpt-oss-120b	failed	6 recorded calls
+v1	legacy	file_handoff	see manifest	complete	0 recorded calls
+v2	legacy	file_handoff	see manifest	complete	0 recorded calls
+v3	legacy	file_handoff	see manifest	complete	0 recorded calls
+v4-groq-01	legacy	live-api	qwen/qwen3.8-27b	failed	2 recorded calls
+v4-groq-02	legacy	live-api	qwen/qwen3.8-27b	failed	4 recorded calls
+v4-groq-03	legacy	live-api	qwen/qwen3.8-27b	pending	1 recorded calls
+v4-groq-04	bounded-parts-1	live-api	qwen/qwen3.8-27b	failed	9 recorded calls
+v4-groq-05	bounded-parts-2	live-api	qwen/qwen3.8-27b	pending	1 recorded calls
+v4-groq-06	bounded-parts-2	live-api	qwen/qwen3.8-27b	failed	6 recorded calls
+v4-groq-20b-01	provider-20	live-api	openai/gpt-oss-20b	completed	6 recorded calls
+v4-groq-final-01	flat-claims-13	live-api	openai/gpt-oss-120b	failed	5 recorded calls
+v4-groq-medium-01	bounded-parts-11	live-api	openai/gpt-oss-120b	failed	4 recorded calls
+v4-groq-medium-02	bounded-parts-12	live-api	openai/gpt-oss-120b	failed	6 recorded calls
+v4-openrouter-01	openrouter-14	live-api	nvidia/nemotron-3-super-120b-a12b:free	failed	5 recorded calls
+v4-openrouter-02	openrouter-15	live-api	dots-studio/dots-3-note-preview:free	failed	1 recorded calls
+v4-openrouter-03	openrouter-16	live-api	dots-studio/dots-3-note-preview:free	failed	10 recorded calls
+v4-openrouter-04	openrouter-17	live-api	apodex/apodex-1.1-mini:free	failed	1 recorded calls
+v4-openrouter-05	openrouter-17	live-api	dots-studio/dots-3-note-preview:free	failed	4 recorded calls
+v4-openrouter-06	openrouter-18	live-api	dots-studio/dots-3-note-preview:free	completed	9 recorded calls
+v4-openrouter-07	openrouter-19	live-api	dots-studio/dots-3-note-preview:free	failed	1 recorded calls

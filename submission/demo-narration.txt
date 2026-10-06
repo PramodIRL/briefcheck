@@ -1,0 +1,23 @@
+1. Draft. Audit. Revise.
+BriefCheck keeps a company brief, its first draft, and its review together. The supplied pack contains conflicting revenue numbers, old pledge news, and a similarly named business. This notebook makes the model's editorial decisions visible, so the final report can be read alongside the evidence and revision history.
+
+2. Keep the before and after
+This is the saved version-three assessment example, using eight supplied documents and a September twenty-third research cutoff. It is a captured model-session run. The final brief covers the business, growth, risks, and unanswered questions, with source references attached to its factual statements.
+
+3. Make the audit inspectable
+The design decision I am proud of is preserving the audit and the before-and-after draft. The critic receives the original documents and reviews individual claims, then gives revision instructions. A reviewer can inspect what was questioned, what changed, and what remained, rather than seeing only the final prose.
+
+4. Show conflicting evidence
+The revenue claim is a useful example. The issuer reports twelve hundred and forty-eight crore, while the article says fourteen hundred and twenty-eight. Opening the claim shows both passages. The brief uses the issuer figure and explicitly retains the discrepancy, without inventing an explanation for it.
+
+5. Keep dates and entities straight
+Source decisions are also visible. The older pledge report is historical context; the newer filing supplies the later measurement. The unrelated cable television operator and promotional blog are excluded from the brief. Keeping those decisions with the original documents lets someone else inspect the reasoning behind them.
+
+6. Fresh API execution is recorded
+The newer API workflow has completed a fresh Groq run with GPT O S S twenty B. All six stages finished, and replay reproduced its saved output without another model call. That experiment is retained separately. The original demonstration sample remains selected because execution success alone does not establish better content.
+
+7. Know what the checks miss
+One limitation is that the audit uses the same model as the writer. A separate request can share the same blind spots, and the revised output does not receive another semantic audit. The fresh run still needed wording review. The audit is therefore an inspectable second pass, not a factual guarantee.
+
+8. A complete, inspectable handoff
+The repository includes the exact brief, three original design experiments, prompts, and later live attempts. The local viewer needs Python and no key. Fresh generation needs a provider key and quota. The deliverable makes both the report and its review process available for someone else to examine.

@@ -1,0 +1,8 @@
+6 October 2026 — final narrated release
+49 original tests + 36 v4/UI tests passed. Across both projects: 146 tests.
+All 143 original run files still match their pre-v4 SHA256 baseline.
+The selected submission brief is an exact copy of the original model-session output.
+Fresh live outcomes are in LIVE_TEST_RESULTS.txt; completed execution does not certify content.
+Narrated video: edited actual UI screenshots, Kokoro synthetic voice; owner review pending.
+UI_MANIFEST.sha256 records final file hashes. Clean ZIP extraction tests are checked during packaging.
+No publication or assessment submission performed.

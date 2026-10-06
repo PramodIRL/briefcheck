@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [
+    "Passing checks establishes shape, citation identity, exact quotation provenance and selected consistency rules; it does not establish entailment or factual truth."
+  ],
+  "brief_words": 424,
+  "mapped_claims": 15,
+  "cited_sources": 6
+}

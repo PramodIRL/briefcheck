@@ -1,0 +1,5 @@
+{
+  "v3": "Original model-session sample: see legacy notes; doubling referent and call-month wording need care.",
+  "v4-openrouter-06": "Development only: completed API run, but source review found wording/support issues. See CONTENT_REVIEW.json. Not selected for submission.",
+  "v4-groq-20b-01": "Completed fresh Groq run; zero-call replay passed. AI content review: GST expectation is worded more firmly; quarterly results need an explicit period; several material topics are omitted. Not selected over original v3 sample."
+}

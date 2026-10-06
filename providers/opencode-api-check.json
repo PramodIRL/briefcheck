@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-06T08:47:28Z",
+  "endpoint": "https://opencode.ai/inference/openai/v1/chat/completions",
+  "model_requested": "big-pickle",
+  "authentication": "none",
+  "request": {
+    "model": "big-pickle",
+    "messages": [
+      {
+        "role": "system",
+        "content": "Return only a valid JSON object."
+      },
+      {
+        "role": "user",
+        "content": "Return exactly {\"ok\":true}."
+      }
+    ],
+    "response_format": {
+      "type": "json_object"
+    },
+    "max_tokens": 256
+  },
+  "http_status": 403,
+  "error_preview": "{\"type\":\"error\",\"error\":{\"type\":\"FreeTierError\",\"message\":\"OpenCode's free tier can only be used from within OpenCode\"}}",
+  "elapsed_seconds": 8.54
+}

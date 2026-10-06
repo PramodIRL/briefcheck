@@ -1,0 +1,22 @@
+{
+  "v4-openrouter-06": {
+    "status": "not selected",
+    "reviewer": "AI assistant source comparison; not owner/human sign-off",
+    "issues": [
+      "C4 turns a can-double statement into a plan and narrows its ambiguous referent.",
+      "C9 invents a comparison with historical lows; those lows are not established in the source pack.",
+      "C11 attributes an expectation stronger than the source wording.",
+      "The brief omits the revenue discrepancy and order/export coverage."
+    ]
+  },
+  "v4-groq-20b-01": {
+    "reviewer": "AI review, not owner sign-off",
+    "mechanical_replay": "passed",
+    "selected": false,
+    "findings": [
+      "The GST sentence says management says it will not materially impact operations; the source says does not expect material impact on financial position or operations. Operations is supported, but certainty is stronger.",
+      "Snapshot financial figures are correct but omit an explicit Q1 FY27 period.",
+      "Margin is repeated in Snapshot and Bear with slightly different wording. Coverage omits profit, order book, exports, pledge comparison and revenue discrepancy."
+    ]
+  }
+}

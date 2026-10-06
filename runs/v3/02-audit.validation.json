@@ -1,0 +1,7 @@
+{
+  "ok": true,
+  "errors": [],
+  "warnings": [
+    "Audit verdicts are model judgments, not verified facts or confidence scores."
+  ]
+}

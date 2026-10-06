@@ -1,0 +1,235 @@
+{
+  "entity_name": "Sarvottam Cables Ltd",
+  "brief_markdown": "# SRVCABLE — Sarvottam Cables Ltd\nAs of: 2026-09-23\n\n## Snapshot\nSarvottam Cables Ltd (NSE: SRVCABLE) makes power cables, wires and conductors; Q1 FY27 ended on 30 June 2026. [S-e4dc6442b586]\nQ1 consolidated revenue rose 18.0% to ₹1,248 crore per the issuer, conflicting with Business Daily's report of ₹1,428 crore and 35% growth. [S-e4dc6442b586] [S-a41e9e2f21c8]\nProfit after tax rose 5.9% to ₹82 crore, but EBITDA (an operating profitability measure) fell as a share of revenue from 12.9% to 11.2%. [S-e4dc6442b586]\n\n## Bull case\n\nThe order book reached ₹3,900 crore at 30 June 2026, versus ₹3,150 crore a year earlier; exports contributed 21% of quarterly revenue, versus 16%. [S-e4dc6442b586]\n\nManagement guides for 15–17% FY27 revenue growth and expects Bharuch production in Q3 FY27, with about 30% additional cable capacity. [S-3a36f4ac4109] [S-e4dc6442b586]\n\nManagement says data-centre cables contribute about 9% of domestic revenue and thinks that share can double in two years. [S-3a36f4ac4109]\n\nPledges were 4.1% of promoter holdings at 30 June 2026, versus 11.5% a year earlier; the 35% news report was published in March 2024. [S-32ec5735c356] [S-156eefbe9bcf]\n\n## Bear case\n\nManagement attributes margin pressure mainly to copper; approximately two-thirds of contracts permit price changes, with resets delayed by one to two quarters. [S-3a36f4ac4109]\n\nThe CFO reports receivable days rising from 78 to 96 over the last year, chiefly because two state utilities pay slowly, with no defaults observed. [S-3a36f4ac4109]\n\nThe CFO reports ₹620 crore of Bharuch investment, about 70% spent, funded mainly by cash generated internally and some loans; net debt is 0.35 times equity. [S-3a36f4ac4109]\n\nThe company received a ₹46.3 crore GST demand, including interest and penalty, relating to FY2020-21 and FY2021-22 input tax credits. [S-4a0ebad90ad1]\n\nIt intends to appeal and expects no material financial or operational impact, according to management. [S-4a0ebad90ad1]\n\n## Open questions\n\n- Will copper-price adjustments restore margins, and will collections support the remaining Bharuch spending? [S-3a36f4ac4109]\n- What is the GST appeal timetable and eventual cash cost, if any? [S-4a0ebad90ad1]\n- What are the current share price, valuation multiples and cash-flow forecasts?\n\n## Sources\n\n- [S-e4dc6442b586] ir_press_release_2026-08-08.md | Sarvottam Cables Ltd, investor relations (company press release) | 2026-08-08 | https://ir.sarvottamcables.example/press/q1fy27\n- [S-a41e9e2f21c8] businessdaily_2026-08-09.md | Business Daily Online (news website) | 2026-08-09 | https://businessdaily.example/markets/sarvottam-cables-q1-results\n- [S-3a36f4ac4109] ir_concall_2026-08-11.md | Q1 FY27 earnings call transcript (excerpt), hosted on company IR site | 2026-08-11 | https://ir.sarvottamcables.example/transcripts/q1fy27.pdf\n- [S-32ec5735c356] nse_shareholding_2026-07-15.md | NSE shareholding pattern filing (summary) | 2026-07-15 | https://nse.example/shareholding/SRVCABLE/2026-06\n- [S-156eefbe9bcf] marketwatchindia_2024-03-18.md | Market Watch India (news website) | 2024-03-18 | https://marketwatchindia.example/2024/03/sarvottam-promoter-pledge\n- [S-4a0ebad90ad1] nse_announcement_2026-09-02.md | NSE corporate announcement (company disclosure) | 2026-09-02 | https://nse.example/announcements/SRVCABLE/2026-09-02",
+  "claims": [
+    {
+      "claim_id": "C1",
+      "text": "Sarvottam Cables Ltd (NSE: SRVCABLE) makes power cables, wires and conductors; Q1 FY27 ended on 30 June 2026. [S-e4dc6442b586]",
+      "kind": "fact",
+      "entity": "Sarvottam Cables Ltd",
+      "period": "Q1 FY27 (quarter ended 2026-06-30)",
+      "evidence": [
+        {
+          "source_id": "S-e4dc6442b586",
+          "quote": "**Mumbai, 8 August 2026.** Sarvottam Cables Ltd (NSE: SRVCABLE), a manufacturer of power cables, wires and conductors, today announced results for the quarter ended 30 June 2026.",
+          "published": "2026-08-08"
+        }
+      ]
+    },
+    {
+      "claim_id": "C2",
+      "text": "Q1 consolidated revenue rose 18.0% to ₹1,248 crore per the issuer, conflicting with Business Daily's report of ₹1,428 crore and 35% growth. [S-e4dc6442b586] [S-a41e9e2f21c8]",
+      "kind": "fact",
+      "entity": "Sarvottam Cables Ltd",
+      "period": "Q1 FY27 versus Q1 FY26",
+      "evidence": [
+        {
+          "source_id": "S-e4dc6442b586",
+          "quote": "**Consolidated highlights (Q1 FY27 vs Q1 FY26)**\n\n| ₹ crore | Q1 FY27 | Q1 FY26 | YoY |\n|---|---|---|---|\n| Revenue from operations | 1,248 | 1,058 | +18.0% |",
+          "published": "2026-08-08"
+        },
+        {
+          "source_id": "S-a41e9e2f21c8",
+          "quote": "Revenue from operations rose to **₹1,428 crore**, a 35% increase from the year-ago period, the company said in an exchange filing on Friday.",
+          "published": "2026-08-09"
+        }
+      ]
+    },
+    {
+      "claim_id": "C3",
+      "text": "Profit after tax rose 5.9% to ₹82 crore, but EBITDA (an operating profitability measure) fell as a share of revenue from 12.9% to 11.2%. [S-e4dc6442b586]",
+      "kind": "fact",
+      "entity": "Sarvottam Cables Ltd",
+      "period": "Q1 FY27 versus Q1 FY26",
+      "evidence": [
+        {
+          "source_id": "S-e4dc6442b586",
+          "quote": "| EBITDA | 140 | 136 | +2.6% |\n| EBITDA margin | 11.2% | 12.9% | −170 bps |\n| Profit after tax | 82 | 77 | +5.9% |",
+          "published": "2026-08-08"
+        }
+      ]
+    },
+    {
+      "claim_id": "C4",
+      "text": "The order book reached ₹3,900 crore at 30 June 2026, versus ₹3,150 crore a year earlier; exports contributed 21% of quarterly revenue, versus 16%. [S-e4dc6442b586]",
+      "kind": "fact",
+      "entity": "Sarvottam Cables Ltd",
+      "period": "Q1 FY27 versus Q1 FY26; order book at 2026-06-30",
+      "evidence": [
+        {
+          "source_id": "S-e4dc6442b586",
+          "quote": "- Order book stood at ₹3,900 crore as of 30 June 2026, up from ₹3,150 crore a year ago.\n- Exports contributed 21% of revenue (Q1 FY26: 16%).",
+          "published": "2026-08-08"
+        }
+      ]
+    },
+    {
+      "claim_id": "C5",
+      "text": "Management guides for 15–17% FY27 revenue growth and expects Bharuch production in Q3 FY27, with about 30% additional cable capacity. [S-3a36f4ac4109] [S-e4dc6442b586]",
+      "kind": "management_view",
+      "entity": "Sarvottam Cables Ltd",
+      "period": "FY27; Q3 FY27",
+      "evidence": [
+        {
+          "source_id": "S-3a36f4ac4109",
+          "quote": "**Anil Deshpande (MD):** For the full year FY27 we are maintaining our revenue growth guidance of 15 to 17 percent. Bharuch will contribute from the second half.",
+          "published": "2026-08-11"
+        },
+        {
+          "source_id": "S-e4dc6442b586",
+          "quote": "- The new Bharuch (Gujarat) plant, adding about 30% to cable capacity, is on track to begin commercial production in Q3 FY27.",
+          "published": "2026-08-08"
+        }
+      ]
+    },
+    {
+      "claim_id": "C6",
+      "text": "Management says data-centre cables contribute about 9% of domestic revenue and thinks that share can double in two years. [S-3a36f4ac4109]",
+      "kind": "management_view",
+      "entity": "Sarvottam Cables Ltd",
+      "period": "Q1 FY27 earnings call; next two years",
+      "evidence": [
+        {
+          "source_id": "S-3a36f4ac4109",
+          "quote": "Data-centre cables are now about 9 percent of our domestic revenue, and we think that can double in two years.",
+          "published": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "claim_id": "C7",
+      "text": "Pledges were 4.1% of promoter holdings at 30 June 2026, versus 11.5% a year earlier; the 35% news report was published in March 2024. [S-32ec5735c356] [S-156eefbe9bcf]",
+      "kind": "fact",
+      "entity": "Sarvottam Cables Ltd",
+      "period": "2026-06-30; June 2025; March 2024 historical report",
+      "evidence": [
+        {
+          "source_id": "S-32ec5735c356",
+          "quote": "# Sarvottam Cables Ltd: shareholding pattern as of 30 June 2026\n\n| Category | Jun 2026 | Mar 2026 | Jun 2025 |\n|---|---|---|---|\n| Promoters & promoter group | 58.2% | 58.2% | 58.4% |\n| Of which pledged (as % of promoter holding) | 4.1% | 6.0% | 11.5% |",
+          "published": "2026-07-15"
+        },
+        {
+          "source_id": "S-156eefbe9bcf",
+          "quote": "published: 2024-03-18\ntype: news article\n---\n\n# Promoter pledge at Sarvottam Cables rises to 35%, raising governance concerns\n\nThe promoters of Sarvottam Cables Ltd have increased the share of their holding that is pledged with lenders to 35%, up from 22% six months ago, according to exchange data.",
+          "published": "2024-03-18"
+        }
+      ]
+    },
+    {
+      "claim_id": "C8",
+      "text": "Management attributes margin pressure mainly to copper; approximately two-thirds of contracts permit price changes, with resets delayed by one to two quarters. [S-3a36f4ac4109]",
+      "kind": "management_view",
+      "entity": "Sarvottam Cables Ltd",
+      "period": "Q1 FY27 earnings call",
+      "evidence": [
+        {
+          "source_id": "S-3a36f4ac4109",
+          "quote": "**Analyst (Rohan M., a brokerage):** Margins are down 170 basis points. How much of this is copper, and how much is competitive pricing?\n\n**Anil Deshpande (MD):** Mostly copper. About two-thirds of our contracts have price-variation clauses, but they reset with a lag of one to two quarters.",
+          "published": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "claim_id": "C9",
+      "text": "The CFO reports receivable days rising from 78 to 96 over the last year, chiefly because two state utilities pay slowly, with no defaults observed. [S-3a36f4ac4109]",
+      "kind": "management_view",
+      "entity": "Sarvottam Cables Ltd",
+      "period": "Year preceding the Q1 FY27 earnings call",
+      "evidence": [
+        {
+          "source_id": "S-3a36f4ac4109",
+          "quote": "**Meera Iyer (CFO):** Yes, receivable days increased from 78 to 96 over the last year. That is mainly two large state utility customers, where payments are slower. We are monitoring this closely and have not seen any defaults.",
+          "published": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "claim_id": "C10",
+      "text": "The CFO reports ₹620 crore of Bharuch investment, about 70% spent, funded mainly by cash generated internally and some loans; net debt is 0.35 times equity. [S-3a36f4ac4109]",
+      "kind": "management_view",
+      "entity": "Sarvottam Cables Ltd",
+      "period": "Q1 FY27 earnings call",
+      "evidence": [
+        {
+          "source_id": "S-3a36f4ac4109",
+          "quote": "**Meera Iyer (CFO):** Bharuch capex is ₹620 crore in total, about 70 percent already spent. It is funded mainly through internal accruals and some term debt. Net debt to equity is 0.35 times.",
+          "published": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "claim_id": "C11",
+      "text": "The company received a ₹46.3 crore GST demand, including interest and penalty, relating to FY2020-21 and FY2021-22 input tax credits. [S-4a0ebad90ad1]",
+      "kind": "fact",
+      "entity": "Sarvottam Cables Ltd",
+      "period": "FY2020-21 and FY2021-22; disclosed 2026-09-02",
+      "evidence": [
+        {
+          "source_id": "S-4a0ebad90ad1",
+          "quote": "Sarvottam Cables Ltd hereby informs that it has received an order from the office of the Joint Commissioner, CGST, Mumbai, raising a demand of **₹46.3 crore** (including interest and penalty) relating to input tax credit claimed for FY2020-21 and FY2021-22.",
+          "published": "2026-09-02"
+        }
+      ]
+    },
+    {
+      "claim_id": "C12",
+      "text": "It intends to appeal and expects no material financial or operational impact, according to management. [S-4a0ebad90ad1]",
+      "kind": "management_view",
+      "entity": "Sarvottam Cables Ltd",
+      "period": "Intended appeal as disclosed 2026-09-02",
+      "evidence": [
+        {
+          "source_id": "S-4a0ebad90ad1",
+          "quote": "The Company believes it has a strong case on merits, based on legal advice, and intends to file an appeal before the appropriate authority. The Company does not expect any material impact on its financial position or operations.",
+          "published": "2026-09-02"
+        }
+      ]
+    },
+    {
+      "claim_id": "C13",
+      "text": "Will copper-price adjustments restore margins, and will collections support the remaining Bharuch spending? [S-3a36f4ac4109]",
+      "kind": "question",
+      "entity": "Sarvottam Cables Ltd",
+      "period": null,
+      "evidence": [
+        {
+          "source_id": "S-3a36f4ac4109",
+          "quote": "About two-thirds of our contracts have price-variation clauses, but they reset with a lag of one to two quarters.",
+          "published": "2026-08-11"
+        },
+        {
+          "source_id": "S-3a36f4ac4109",
+          "quote": "**Meera Iyer (CFO):** Yes, receivable days increased from 78 to 96 over the last year. That is mainly two large state utility customers, where payments are slower.",
+          "published": "2026-08-11"
+        },
+        {
+          "source_id": "S-3a36f4ac4109",
+          "quote": "**Meera Iyer (CFO):** Bharuch capex is ₹620 crore in total, about 70 percent already spent. It is funded mainly through internal accruals and some term debt.",
+          "published": "2026-08-11"
+        }
+      ]
+    },
+    {
+      "claim_id": "C14",
+      "text": "What is the GST appeal timetable and eventual cash cost, if any? [S-4a0ebad90ad1]",
+      "kind": "question",
+      "entity": "Sarvottam Cables Ltd",
+      "period": null,
+      "evidence": [
+        {
+          "source_id": "S-4a0ebad90ad1",
+          "quote": "The Company believes it has a strong case on merits, based on legal advice, and intends to file an appeal before the appropriate authority.",
+          "published": "2026-09-02"
+        }
+      ]
+    },
+    {
+      "claim_id": "C15",
+      "text": "What are the current share price, valuation multiples and cash-flow forecasts?",
+      "kind": "question",
+      "entity": "Sarvottam Cables Ltd",
+      "period": null,
+      "evidence": []
+    }
+  ]
+}

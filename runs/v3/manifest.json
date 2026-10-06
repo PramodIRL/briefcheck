@@ -1,0 +1,72 @@
+{
+  "format": "briefcheck.run.v1",
+  "created_at": "2026-10-06T07:52:18+00:00",
+  "status": "complete",
+  "mode": "file_handoff",
+  "model_label": "GPT-6 Astra Pro (ChatGPT session; exact backend snapshot/settings not exposed)",
+  "model_settings": "Not exposed by file handoff; no claim of a pinned backend snapshot.",
+  "ticker": "SRVCABLE",
+  "as_of": "2026-09-23",
+  "version": "v3",
+  "sequence": [
+    "draft",
+    "audit",
+    "revise"
+  ],
+  "stages": [
+    {
+      "stage": "draft",
+      "request_file": "01-draft.request.json",
+      "request_sha256": "ad27b483c070ad8c7422d63ec430183572577c4bafb89915d3677de939d395bc",
+      "prompt_file": "prompts/v3/draft.md",
+      "prompt_sha256": "24f4077a4edce0e8b804c9a6c602cdd6f8c57429c0aad1dbb9482590bdc36f9a",
+      "status": "accepted",
+      "response_file": "01-draft.response.json",
+      "response_sha256": "8df59e654bf59bb4bad02c8ba2ced8e1a14056ff45a067615db4a46af1c2572e",
+      "accepted_at": "2026-10-06T07:58:19+00:00",
+      "response_metadata": {
+        "transport": "file_handoff",
+        "backend_snapshot": "not exposed",
+        "generation_elapsed_seconds": null
+      }
+    },
+    {
+      "stage": "audit",
+      "request_file": "02-audit.request.json",
+      "request_sha256": "eb65ca3808a2728e7778978296791f3324b95805a155e0edcb01ae2004471dec",
+      "prompt_file": "prompts/v3/audit.md",
+      "prompt_sha256": "c78b3aa20b25317817f7660c2892b5c6e1cfa041a2a344afe232e1c7ea635ab4",
+      "status": "accepted",
+      "response_file": "02-audit.response.json",
+      "response_sha256": "b1bd6020ebedc72c2f79b10619b9c9ee31ffee0cfb6b7ad6cc1c2fcb12f84974",
+      "accepted_at": "2026-10-06T08:02:26+00:00",
+      "response_metadata": {
+        "transport": "file_handoff",
+        "backend_snapshot": "not exposed",
+        "generation_elapsed_seconds": null
+      }
+    },
+    {
+      "stage": "revise",
+      "request_file": "03-revise.request.json",
+      "request_sha256": "61afef3400e8e7a0b94d0cba04c015841924183e5c1a973e9156a55af533b93a",
+      "prompt_file": "prompts/v3/revise.md",
+      "prompt_sha256": "bfa3799e211611e02a5eaa3d34102b38e11d0397e7a4a64f2c99ad2aa0e2aa5e",
+      "status": "accepted",
+      "response_file": "03-revise.response.json",
+      "response_sha256": "64ba61b78445a7755482614e0201d367438b831f552cb8698e45a07c5df1cd3d",
+      "accepted_at": "2026-10-06T08:04:44+00:00",
+      "response_metadata": {
+        "transport": "file_handoff",
+        "backend_snapshot": "not exposed",
+        "generation_elapsed_seconds": null
+      }
+    }
+  ],
+  "sources_sha256": "1a687637d5873186ebcf1b6f80aed4cc5d002fd7e384b0ac1a9d82ffc1bfebc8",
+  "code_sha256": "ed54a6d9ed011febc47ca2c3c971a9fac8a78a6c691ad3e2f94b2e0d7adac36d",
+  "automatic_revision_limit": 1,
+  "semantic_final_audit": "not_performed_after_revision",
+  "next_stage": null,
+  "completed_at": "2026-10-06T08:04:44+00:00"
+}

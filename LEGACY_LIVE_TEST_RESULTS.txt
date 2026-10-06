@@ -1,0 +1,18 @@
+BriefCheck — LIVE TEST RESULTS — 6 October 2026
+
+live-groq-v3-01
+  Original gpt-oss-120b profile: HTTP 403 before model output. A later diagnostic with an explicit application User-Agent succeeded; that header is now included.
+
+live-groq-v3-02
+  Qwen 3.8 with reasoning disabled: HTTP 400. The runner did not retain the provider error body, so the specific cause is unproven.
+
+ui-20261006T145124Z-05f6f1
+  Browser-initiated Qwen v1: response received, rejected for title/claim/citation/quotation violations. Raw output and validation errors preserved.
+
+live-groq-v1-04
+  GPT-OSS-120B with low reasoning: response received, rejected for claim/citation/quotation violations. Raw output and validation errors preserved.
+
+All attempts used the owner-authorized Groq key. No key is included. Tiny diagnostic calls additionally confirmed that a request with an explicit application User-Agent could complete, and one full-size diagnostic hit an input-token rate limit. Diagnostics do not count as completed workflow runs. No OpenRouter inference was performed.
+
+Checks: 49 engine/adapter tests + 6 UI backend tests passed.
+Both UIs were opened in a browser, and a real generation was initiated from each; both displayed failure without replacing the saved report. Exact Markdown export and server key-status handling were checked. Tests used Python 3.14.7 and Node 26.8.1; minimum-version compatibility was not separately tested.

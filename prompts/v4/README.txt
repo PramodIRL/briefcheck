@@ -1,0 +1,1 @@
+Current shared system text. v4.py adds stage-specific section, prior-output, ledger, audit, repair and schema instructions. Every run preserves its actual requests, prompts and code snapshot. Original v1–v3 prompts remain unchanged.

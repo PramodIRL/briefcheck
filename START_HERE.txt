@@ -1,0 +1,29 @@
+BriefCheck — START HERE
+
+1. Extract the WHOLE folder. Install Python 3.10+ if necessary.
+2. Open a terminal in the extracted folder. Run: python3 webui.py
+   Windows: py webui.py
+3. Open http://127.0.0.1:8766/ and select v3.
+   This is the original saved model-session example; no API key is needed.
+4. Watch submission/demo.mp4 and read submission/demo-narration.txt.
+   It is an edited walkthrough of real app screens with synthetic narration.
+   Review the brief and understand the design and limitation before submitting.
+5. Put the files in your own repository; keep all .env/API keys private.
+6. Supply an evaluator-accessible build link, exact brief, experiment notes and
+   2–3 minute video through the assessment form's requested fields.
+   A private repository link alone does NOT give the reviewer access.
+
+Fresh generation: v4 / Groq / openai/gpt-oss-20b / your OWN Groq API key.
+No key is included. A chat subscription is not an API key. Allow 5–10 minutes.
+Run one app at a time to avoid sharing the same minute quota.
+Latest run: v4-groq-20b-01 — completed. See LIVE_TEST_RESULTS.txt and CONTENT_REVIEW.json.
+Mechanical completion is not a guarantee of correct wording or complete coverage.
+OpenRouter uses a separate key. This test account's free daily quota is exhausted;
+earlier completed free runs had content problems. No paid calls were made.
+
+Explain: source triage → draft → audit against original documents → revision.
+Explain your actual contribution, shared infrastructure and AI assistance honestly.
+The displayed report is not a newly generated API result. Original run files are
+preserved; the submitted brief is an exact copy, with owner review still pending.
+SRVCABLE is fictional. Cutoff: 2026-09-23. A ticker does not fetch NSE data.
+Use dated Markdown/text documents; PDF inputs are unsupported.
